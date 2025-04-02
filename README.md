@@ -38,3 +38,11 @@ How to Use
 Download the Restaurant_Analysis.pbix file.
 Open the file using Power BI Desktop.
 Explore the interactive dashboard by clicking on visual elements.
+
+## 🚀 Skills Used
+- 📊 **Power BI**  
+- 📈 **Data Analysis**  
+- 🔢 **DAX for calculations**  
+- 🗄️ **SQL (if used)**  
+- 📂 **Data Cleaning & Processing**  
+
