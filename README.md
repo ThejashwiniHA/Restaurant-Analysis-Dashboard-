@@ -43,6 +43,6 @@ Explore the interactive dashboard by clicking on visual elements.
 - 📊 **Power BI**  
 - 📈 **Data Analysis**  
 - 🔢 **DAX for calculations**  
-- 🗄️ **SQL (if used)**  
+- 🗄️ **Excel**  
 - 📂 **Data Cleaning & Processing**  
 
